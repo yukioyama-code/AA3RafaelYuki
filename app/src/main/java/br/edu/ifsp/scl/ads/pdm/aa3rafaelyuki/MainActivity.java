@@ -10,6 +10,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    //Rafael Bianchi Presta e Yuki Hiroji Oyama
+
+
    private EditText txtEscola;
    private Button btnOK;
    private Button btnCancelar;
